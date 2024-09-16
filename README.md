@@ -1,10 +1,12 @@
-# Code Examples for AURIX™ Development Studio
-Hundreds of code examples are available for AURIX™ devices in this repository.<br />
+# Code Examples for AURIXâ„¢ Development Studio
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsrivshu944%2FAURIX_code_examples.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsrivshu944%2FAURIX_code_examples?ref=badge_shield)
+
+Hundreds of code examples are available for AURIXâ„¢ devices in this repository.<br />
 Each code example is made up of two parts: the **[source code](#source-code)** and the corresponding **[tutorial](#tutorial)**.
 
-To import a code example into AURIX™ Development Studio, follow the guide at the [end on this page](#how-to-import).
+To import a code example into AURIXâ„¢ Development Studio, follow the guide at the [end on this page](#how-to-import).
 
-**NOTE:** For any question or request, please use the dedicated [Infineon AURIX™ forum](https://community.infineon.com/t5/AURIX/bd-p/AURIX).
+**NOTE:** For any question or request, please use the dedicated [Infineon AURIXâ„¢ forum](https://community.infineon.com/t5/AURIX/bd-p/AURIX).
 
 ## Topics
 The topics covered by the code examples stored in this repository are the following, divided per macro category:
@@ -25,9 +27,9 @@ The source code of each code example is based on Infineon Low Level Drivers (iLL
 
 Each code example is provided with a comment section called "metadata" in the Cpu0_Main.c file, which include:
 - **Title**: the title of the code example
-- **Abstract**: a short description of the example’s scope
-- **Description**: a detailed description of the example’s scope
-- **Name**: the example’s univocal name
+- **Abstract**: a short description of the exampleâ€™s scope
+- **Description**: a detailed description of the exampleâ€™s scope
+- **Name**: the exampleâ€™s univocal name
 - **Version**: the version number of the example (*V&lt;major changes&gt;.&lt;minor changes&gt;.&lt;bugfixes&gt;* e.g. V1.0.2)
 - **Board**: a list of boards supported by the code
 - **Keywords**: a list of keywords used to ease the search
@@ -56,7 +58,7 @@ The code examples supports the following types of boards:
 
 In particular, the following boards are supported:
 
-|   AURIX™ TC2xx Boards           |    &#35; Code Examples   |   AURIX™ TC3xx Boards        |   &#35; Code Examples |
+|   AURIXâ„¢ TC2xx Boards           |    &#35; Code Examples   |   AURIXâ„¢ TC3xx Boards        |   &#35; Code Examples |
 |---------------------------------|--------------------------|------------------------------|-----------------------|
 |     KIT_AURIX_TC234_TFT         |   &#126;5                |     KIT_A2G_TC334_LITE       |   &#126;60            | 
 |     KIT_AURIX_TC237_TFT         |   &#126;5                |     KIT_A2G_TC367_5V_TFT     |   &#126;5             | 
@@ -77,11 +79,15 @@ Each tutorial contains the following information:
 - **Run and Test**: The steps to follow to make sure the code is working properly and interact with it
 
 ## How To Import
-To **import** a code example, use the dedicated import function in AURIX™ Development Studio: *File* &gt;&gt; *Import...* &gt;&gt; *Infineon* &gt;&gt; *"AURIX Development Studio Project"*, select *"Infineon Code Examples Repository"* and select the code example to be imported.
+To **import** a code example, use the dedicated import function in AURIXâ„¢ Development Studio: *File* &gt;&gt; *Import...* &gt;&gt; *Infineon* &gt;&gt; *"AURIX Development Studio Project"*, select *"Infineon Code Examples Repository"* and select the code example to be imported.
 
 <center><img src="./img/importCEs.gif" width="800"/></center>
 
-The same result can be achieved by clicking on "*Import AURIX Project*" in the Quick Links view of AURIX™ Development Studio:
+The same result can be achieved by clicking on "*Import AURIX Project*" in the Quick Links view of AURIXâ„¢ Development Studio:
 
 <img src="./img/quickLinksImport.gif" />
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsrivshu944%2FAURIX_code_examples.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsrivshu944%2FAURIX_code_examples?ref=badge_large)
